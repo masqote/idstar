@@ -11,6 +11,7 @@
 Step by Step install project :
 - Git pull
 - composer install
+- Setup .ENV
 - php artisan migrate
 - php artisan serve
 - Open POSTMAN
